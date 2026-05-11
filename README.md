@@ -3,6 +3,7 @@
 A lightweight Windows tool for managing Steam game server connections using Windows Firewall rules.
 
 Built with Python + CustomTkinter, designed for competitive games like CS2 where latency and region control matters.
+<img width="1167" height="832" alt="image" src="https://github.com/user-attachments/assets/18ebd298-937c-4c65-a5d4-52f33b26707c" />
 
 ---
 
