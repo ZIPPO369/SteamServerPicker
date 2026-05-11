@@ -54,4 +54,5 @@ env.bak/
 venv.bak/
 
 # My custom ignores
-app_icon.ico
+# app_icon.ico - keep this if it's needed for the project
+# dist/ - keep this out of git usually, but for easy download we use Releases
